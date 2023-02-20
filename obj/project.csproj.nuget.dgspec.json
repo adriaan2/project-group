@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\adriaan2\\OneDrive\\project\\project.csproj": {}
+    "C:\\Users\\adriaan2\\OneDrive\\project-group-1\\project.csproj": {}
   },
   "projects": {
-    "C:\\Users\\adriaan2\\OneDrive\\project\\project.csproj": {
+    "C:\\Users\\adriaan2\\OneDrive\\project-group-1\\project.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\adriaan2\\OneDrive\\project\\project.csproj",
+        "projectUniqueName": "C:\\Users\\adriaan2\\OneDrive\\project-group-1\\project.csproj",
         "projectName": "project",
-        "projectPath": "C:\\Users\\adriaan2\\OneDrive\\project\\project.csproj",
+        "projectPath": "C:\\Users\\adriaan2\\OneDrive\\project-group-1\\project.csproj",
         "packagesPath": "C:\\Users\\adriaan2\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\adriaan2\\OneDrive\\project\\obj\\",
+        "outputPath": "C:\\Users\\adriaan2\\OneDrive\\project-group-1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\adriaan2\\AppData\\Roaming\\NuGet\\NuGet.Config"
