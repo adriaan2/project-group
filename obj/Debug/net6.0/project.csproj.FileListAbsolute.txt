@@ -1,0 +1,15 @@
+C:\Users\Dragan\OneDrive\project\obj\Debug\net6.0\project.csproj.AssemblyReference.cache
+C:\Users\Dragan\OneDrive\project\obj\Debug\net6.0\project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragan\OneDrive\project\obj\Debug\net6.0\project.AssemblyInfoInputs.cache
+C:\Users\Dragan\OneDrive\project\obj\Debug\net6.0\project.AssemblyInfo.cs
+C:\Users\Dragan\OneDrive\project\obj\Debug\net6.0\project.csproj.CoreCompileInputs.cache
+C:\Users\adriaan2\OneDrive\project\obj\Debug\net6.0\project.csproj.AssemblyReference.cache
+C:\Users\adriaan2\OneDrive\project\obj\Debug\net6.0\project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adriaan2\OneDrive\project\obj\Debug\net6.0\project.AssemblyInfoInputs.cache
+C:\Users\adriaan2\OneDrive\project\obj\Debug\net6.0\project.AssemblyInfo.cs
+C:\Users\adriaan2\OneDrive\project\obj\Debug\net6.0\project.csproj.CoreCompileInputs.cache
+C:\Users\adriaan2\OneDrive\project-group\obj\Debug\net6.0\project.csproj.AssemblyReference.cache
+C:\Users\adriaan2\OneDrive\project-group\obj\Debug\net6.0\project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adriaan2\OneDrive\project-group\obj\Debug\net6.0\project.AssemblyInfoInputs.cache
+C:\Users\adriaan2\OneDrive\project-group\obj\Debug\net6.0\project.AssemblyInfo.cs
+C:\Users\adriaan2\OneDrive\project-group\obj\Debug\net6.0\project.csproj.CoreCompileInputs.cache
